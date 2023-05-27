@@ -32,8 +32,7 @@ count_5 = 0
 count_3_5 = 0
 count = 0
 
-
-for i in range(1,101):
+'''for i in range(1000001):
 	if i%3 == 0 and i%5==0:
 		count_3_5 += 1
 		print(f'{i} Fizzbuzz')
@@ -47,6 +46,10 @@ for i in range(1,101):
 		count += 1
 		print(f'{i}')
 
-print(f' Fizz: {count_3}\nbuzz: {count_5}\nFizzbuzz: {count_3_5}\nResto:{count} ')
+print(f' Fizz: {count_3}\nbuzz: {count_5}\nFizzbuzz: {count_3_5}\nResto:{count} ')'''
 		
 		
+# Module
+from   namer import nameIt
+nameIt('Olegario')
+nameIt('Juan')

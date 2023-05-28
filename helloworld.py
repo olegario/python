@@ -50,6 +50,8 @@ print(f' Fizz: {count_3}\nbuzz: {count_5}\nFizzbuzz: {count_3_5}\nResto:{count} 
 		
 		
 # Module
-from   namer import nameIt
+'''from   namer import nameIt
 nameIt('Olegario')
-nameIt('Juan')
+nameIt('Juan')'''
+
+print('Git	')
